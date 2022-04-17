@@ -29,7 +29,7 @@ College assignment, simple loans calculator for mobile platform. The app calcula
   * The prompt window will ask for some general information, fill as necesarry.
   * Enter the key and password (Note these down, important).
   * A keystore file will be generated, store this inside your project's `.\android\app`
-  * Navigate to `.\android` then add the following lines to **gradle.properties**, adjust the values to the previoesly filled information<br> <br> 
+  * Navigate to `.\android` then add the following lines to **gradle.properties**, adjust the values to previously filled informations<br> <br> 
   ```
   MYAPP_RELEASE_STORE_FILE=my-key.keystore
   MYAPP_RELEASE_KEY_ALIAS=my-key-alias

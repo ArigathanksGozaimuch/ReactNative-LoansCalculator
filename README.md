@@ -13,12 +13,10 @@ College assignment, simple loans calculator for mobile platform. The app calcula
 * Interest installments per month = (Loan ceiling x Interest rate) / 12<br>
 * First payment = Downpayment + First Installment + Insurance (Percent of car price) + Provision (Percent of loan ceiling) + Insurance Policy + Administration
 
-# Download
-[Release](https://github.com/ArigathanksGozaimuch/ReactNative-LoansCalculator/releases/tag/v.1)
-
 # Preview
 ![Loans](https://user-images.githubusercontent.com/103828697/163724832-c3bb7a1b-244d-43ca-87c5-7bd2f10f9878.png)
 
-# How to build for developer
-* Create a react native project from react native CLI
-* *
+# How to build
+* Normal user: [Release]
+* Developer:
+  * test

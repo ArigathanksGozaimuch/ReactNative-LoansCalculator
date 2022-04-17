@@ -1,5 +1,5 @@
 # ReactNative-LoansCalculator
-College assignment, simple loans calculator for mobile platform. The app calculate from 2 form of customer input: total vehicle cost and total month of loan. Then calculate the result based on predetermined formula as follows:<br><br>
+College assignment, simple loans calculator for mobile platform. The app calculate from 2 form of customer input: total vehicle cost and total month of loan. Then calculate the result based on predetermined formula as follows:
 * Down payment 30% from credit value in accordance with applicable regulations. 
 * The car loan interest rate charged is 4.8% per year (flat) 
 * The period taken is 5 years. 

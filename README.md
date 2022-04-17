@@ -17,6 +17,6 @@ College assignment, simple loans calculator for mobile platform. The app calcula
 ![Loans](https://user-images.githubusercontent.com/103828697/163724832-c3bb7a1b-244d-43ca-87c5-7bd2f10f9878.png)
 
 # How to build
-* Normal user: [Release]
+* Normal user: [Release](https://github.com/ArigathanksGozaimuch/ReactNative-LoansCalculator/releases/tag/v.1)
 * Developer:
-  * test
+  * Create a react-native project from react-native CLI.

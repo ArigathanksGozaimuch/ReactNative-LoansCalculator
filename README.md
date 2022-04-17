@@ -20,7 +20,7 @@ College assignment ([Full PDF Documentation](https://github.com/ArigathanksGozai
 * Normal user: [Release](https://github.com/ArigathanksGozaimuch/ReactNative-LoansCalculator/releases/tag/v.1)
 * Developer:
   * Create a react-native project from react-native CLI then build the template.
-  * Import App.js from this repo.
+  * Import **App.js** from this repo.
   * Open CMD/Terminal then navigate to the Java Development Kit **bin** directory in your system.
   * input the following command:<br> <br> 
   ```
